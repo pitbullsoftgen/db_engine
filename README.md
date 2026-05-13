@@ -1,4 +1,5 @@
-# Ultra CSV Cleaner & Converter (GUI)
+# Ultra DB BIGDATA research Cleaner & Converter (GUI)
+can open billions of line in one click on low ram low configured computer
 
 A lightweight desktop tool for cleaning, converting, splitting, opening chunks, and merging very large CSV/JSON/TXT/Excel files with low RAM usage.
 
